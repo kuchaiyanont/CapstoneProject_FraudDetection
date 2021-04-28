@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 1. Fraudulent transactions spend a little money but many times.
 
-2. The transaction with product C, Discovery card, credit card, Microsoft email and use a mobile have more chance to  be a fraudulent transactions.
+2. The transaction with product C, Discover card, credit card, Microsoft email and use a mobile have more probable to be a fraudulent transactions.
 
 3. The best model to predict probability of fraud or not fraud for this data set is Gradient Boosting.
 
