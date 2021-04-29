@@ -58,4 +58,6 @@ ________________________________________________________________________________
 
 4. Each company has the different criteria to detect fraud so, we can adjust the suitable threshold from the model’s prediction.
 
+5. Transaction payment amount, Card1, Card2, Card3, and Card5 are the important features for prediction fraudulent transaction.
+
 
